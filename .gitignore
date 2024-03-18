@@ -1,0 +1,12 @@
+# ignore ALL . files
+*.DS_Store
+*.ipynb_checkpoints/
+
+# ignore ALL files in ANY directory named Lab 1 Data
+*Lab Data/
+*data/
+*Slides
+*CrimeData/
+*urbdash
+*cache/
+*images/
