@@ -1,7 +1,7 @@
 # ignore ALL . files
 *.DS_Store
 *.ipynb_checkpoints/
-
+*13-isolines-isochrones.ipynb
 # ignore ALL files in ANY directory named Lab 1 Data
 *Lab Data/
 *data/
@@ -10,3 +10,4 @@
 *urbdash
 *cache/
 *images/
+*RepoPrototype (1)
