@@ -1,7 +1,7 @@
 # GG4257 Independent Research Project 
 ## Spatial Analysis of Crime In Washington DC based on Metro Stations
 
-[**Map of the Washington D.C. Metro from WMATA**](metro_map.png)
+[**Map of the Washington D.C. Metro from WMATA**](https://github.com/issyollie/GG4257_Spatial_Analysis_DC_Crime/blob/main/metro_map.png)
 
 Binder Link to the Code: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issyollie/GG4257_Spatial_Analysis_DC_Crime/HEAD?labpath=Code_Final_Assessment.ipynb)
 
