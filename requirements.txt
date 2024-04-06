@@ -44,3 +44,6 @@
   # Progress Bars and user interaction
   tqdm
   click
+  # descartes 
+  descartes
+  shapely 
