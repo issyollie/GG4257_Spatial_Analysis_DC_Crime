@@ -3,8 +3,6 @@
 
 [**Map of the Washington D.C. Metro from WMATA**](https://github.com/issyollie/GG4257_Spatial_Analysis_DC_Crime/blob/main/metro_map.png)
 
-Binder Link to the Code: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issyollie/GG4257_Spatial_Analysis_DC_Crime/HEAD?labpath=Code_Final_Assessment.ipynb)
-
 Binder Link to the Report: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issyollie/GG4257_Spatial_Analysis_DC_Crime/HEAD?labpath=Report_Final_Assignment.ipynb)
 
 This is my repository for the independent research project for GG4257: Urban Analytics as a Toolkit for Sustainable Development. 
